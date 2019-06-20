@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with tumu boi
+          I was changed by tumu on the feature branch!! 
         </a>
       </header>
     </div>
